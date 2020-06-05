@@ -5,3 +5,5 @@
 * [Frontend](https://github.com/luindayk/nlw-react-web)
 
 * [Mobile](https://github.com/luindayk/nlw-react-mobile)
+
+![](./capa.png)
