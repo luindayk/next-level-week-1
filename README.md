@@ -1,4 +1,4 @@
-## Link dos repositórios do Next Level Week 1
+## Link dos repositórios do Next Level Week 1.0
 
 * [Backend](https://github.com/luindayk/nlw-node-server)
 
